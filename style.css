@@ -182,6 +182,14 @@ nav svg {
   height: 100vh;
   text-align: center;
 }
+.card5 {
+  background-image: url("assets/3.png");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
 
 .cta {
   display: flex;
