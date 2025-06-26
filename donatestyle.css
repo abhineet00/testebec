@@ -66,6 +66,7 @@ nav svg {
   color: #fefbff;
   text-align: center;
   padding: 0 12rem 0 12rem;
+  font-weight: 700;
 }
 /* .accordian {
   display: flex;
@@ -80,10 +81,10 @@ nav svg {
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  padding: 2rem 0 2rem 0;
+  padding: 2rem 0 0rem 0;
 }
 .donate_form p {
-  font-size: 2.4rem;
+  font-size: 3.2rem;
 }
 #form-error {
   display: none;
@@ -98,7 +99,7 @@ nav svg {
   justify-content: center;
   align-items: start;
   gap: 2rem;
-  padding: 2rem 0 2rem 0;
+  padding: 2rem 0 6rem 0;
   width: 80rem;
   margin: 0 auto;
 }
