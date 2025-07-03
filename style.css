@@ -113,7 +113,15 @@ nav svg {
   height: 100vh;
   text-align: center;
 }
-
+.icon svg {
+  width: 12rem;
+}
+.icon.mediumicon svg {
+  width: 15rem;
+}
+.icon.bigicon svg {
+  width: 20rem;
+}
 .card-content {
   position: relative;
   display: flex;
